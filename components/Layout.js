@@ -8,7 +8,7 @@ export default function Layout({children}){
 		<>
 		<Head>
 			<link rel="shortcut icon" href="/image/favicon.ico"/>
-			<title>PokeNext</title>
+			<title>PokeDex</title>
 		</Head>
 			<NavBar/>
 			<main className="main-container">{children}</main>
