@@ -4,7 +4,7 @@
 
 
 
-https://user-images.githubusercontent.com/89351018/151699806-5e840cc9-789a-4278-a13b-9d19f25a7257.mp4
+![PokeDex (1)](https://user-images.githubusercontent.com/89351018/174607316-9a30c570-f943-4b21-8c61-cd938152cbff.gif)
 
 
 
